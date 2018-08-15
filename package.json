@@ -1,0 +1,25 @@
+{
+  "name": "hebrew",
+  "version": "1.0.0",
+  "description": "A JSON file of Hebrew character names and Unicode points.",
+  "keywords": [
+    "hebrew",
+    "pointed hebrew",
+    "language",
+    "unicode",
+    "characters",
+    "letters",
+    "niqqud",
+    "nikkud",
+    "teamim",
+    "json"
+  ],
+  "author": {
+    "name": "Fr. John Lamansky",
+    "url": "lamansky.com"
+  },
+  "license": "MIT",
+  "repository": "lamansky/hebrew",
+  "main": "index.json",
+  "files": []
+}
